@@ -1,0 +1,17 @@
+{
+  "name": "biganfa/best-liker",
+  "description": "Tiny lib on top of Instagram API which makes you always the first to like any new post of your favorite blogger",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Vasily Pyatykh",
+      "email": "catanfa@yandex.ru"
+    }
+  ],
+  "require": {
+    "mgp25/instagram-php": "^5.0",
+    "symfony/dotenv": "^4.2",
+    "eleirbag89/telegrambotphp": "^1.3"
+  }
+}
